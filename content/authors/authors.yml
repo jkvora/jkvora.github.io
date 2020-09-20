@@ -1,0 +1,10 @@
+- name: Jalak Vora
+  bio: |
+    Written by Jalak Vora who lives and works in Ahmedabad building useful things.
+    You should follow him on Twitter.
+  avatar: ./avatars/avatar.jpg
+  featured: true
+  social:
+    - url: https://unsplash.com
+    - url: https://stackoverflow.com
+    - url: https://github.com
