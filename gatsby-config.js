@@ -1,7 +1,7 @@
 // gatsby-config.js
 
 module.exports = {
-    pathPrefix: "/jkvora.github.io",
+    pathPrefix: "/public",
     siteMetadata: {
         title: `Novela by Narative`,
         name: `Narative`,
