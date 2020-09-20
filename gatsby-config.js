@@ -3,14 +3,14 @@
 module.exports = {
     pathPrefix: "/public",
     siteMetadata: {
-        title: `Novela by Narative`,
-        name: `Narative`,
+        title: `Jalak Vora`,
+        name: `Jalak`,
         siteUrl: `https://gatsby-theme-novela.netlify.com`,
         description: `This is my description that will be used in the meta tags and important for search results`,
     
         // important to set the main text that appears in the hero
         hero: {
-          heading: `Perspectives on technology, design and business from the team at Narative.`,
+          heading: `Hi, I am Jalak Vora , Engineer by Profession.`,
           maxWidth: 652,
         },
         social: [
