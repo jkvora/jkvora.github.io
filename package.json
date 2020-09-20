@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths"
   },
   "dependencies": {
     "@narative/gatsby-theme-novela": "^0.*",
