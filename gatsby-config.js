@@ -16,11 +16,11 @@ module.exports = {
         social: [
           {
             name: `twitter`,
-            url: `https://twitter.com/narative`,
+            url: `https://twitter.com/VORAJALAK`,
           },
           {
             name: `github`,
-            url: `https://github.com/narative`,
+            url: `https://github.com/jkvora`,
           },
         ],
       },
